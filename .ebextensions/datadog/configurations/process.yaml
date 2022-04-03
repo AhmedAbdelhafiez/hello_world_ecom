@@ -1,0 +1,6 @@
+init_config:
+
+instances:
+- name: run_scheduled_job
+  search_string: ['run_scheduled_job']
+  exact_match: false
